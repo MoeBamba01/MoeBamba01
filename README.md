@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/moe_bamba01" target="blank"><img src="https://img.shields.io/twitter/follow/moe_bamba01?logo=twitter&style=for-the-badge" alt="moe_bamba01" /></a> </p>
 
-- 🔭 I’m currently working on **A NextJs Sass Aplication**
+- 🔭 I’m currently working on **New Apps**
 
 - 🌱 I’m currently learning **TypeScript, Dart, Flutter**
 
