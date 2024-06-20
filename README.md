@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moe Bamba</h1>
-<h3 align="center">A Fullstack MERN Developer fron Senegal</h3>
+<h3 align="center">A Fullstack MERN Developer from Senegal</h3>
 
 <p align="left"> <a href="https://twitter.com/moe_bamba01" target="blank"><img src="https://img.shields.io/twitter/follow/moe_bamba01?logo=twitter&style=for-the-badge" alt="moe_bamba01" /></a> </p>
 
